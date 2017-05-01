@@ -1,3 +1,3 @@
 const console = require('better-console');
 
-console.error('\nsmooth-release rocks!!!\n');
+console.log('\nsmooth-release rocks!!!\n');
