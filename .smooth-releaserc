@@ -1,1 +1,8 @@
-{}
+{
+  "tasks": {
+    "npm-publish": true,
+    "npm-version": true,
+    "gh-release": true,
+    "changelog": true
+  }
+}
