@@ -1,6 +1,6 @@
 {
   "name": "smooth-release-demo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Libreria finta creata per la demo di smooth-release fatta a MilanoJS - The good party (2 Maggio 2017)",
   "main": "index.js",
   "repository": "git@github.com:FrancescoCioria/smooth-release-demo.git",
